@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lindokuhle Nini</h1>
 <h3 align="center">A passionate software developer from Cape Town</h3>
 
-- 🔭 I’m currently working on [e-commerce website](https://github.com/LindokuhleNini/ECommerceWebsite.git)
+- 🔭 I’m currently working on a [e-commerce website](https://github.com/LindokuhleNini/ECommerceWebsite.git)
 
 - 🌱 I’m currently learning **Spring boot and react**
 
-- 👯 I’m looking to collaborate on **exiting new projects**
+- 👯 I’m looking to collaborate on **exciting new projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LindokuhleNini](https://github.com/LindokuhleNini)
 
