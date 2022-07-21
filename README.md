@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **lindokuhlenini@outlook.com**
+- 📫 How to reach me **liindokuhlenini@gmail.com**
 
 - ⚡ Fun fact **I'm addicted to coffee!**
 
