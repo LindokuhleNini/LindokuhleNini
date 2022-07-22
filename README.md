@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [e-commerce website](https://github.com/LindokuhleNini/ECommerceWebsite.git)
 
-- 🌱 I’m currently learning **Spring boot and react**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👯 I’m looking to collaborate on **exciting new projects**
 
